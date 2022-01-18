@@ -1,0 +1,21 @@
+ID: 1
+Severity: Blocker 
+Priority: High
+Preconditions:
+Kala app is launched. 
+The premium subscription purchase page is opened
+Steps to reproduce:
+1. Tap on the "Start your 7 days free now" button
+2. Enter password 
+3. Tap "OK" in the popup window
+4. Pay attention to the result
+Summary: The endless spinner is displayed during the premium subscription process
+AR: The endless spinner is displayed during the premium subscription process
+ER: Premium subscription is enabled
+Attachments: 
+Environment / Device: Build: 3.0.5_103_QA 
+                      Devices:
+                      IPhone 11 Pro Max // 15.0.1
+                      iPhone 6s // iOS 14.4
+                      iPhone 8 Plus 13.3
+                     
